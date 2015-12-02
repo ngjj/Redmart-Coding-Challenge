@@ -20,6 +20,8 @@ public class Ski {
 				ski(i, j, mountain, new LinkedList<Integer>());
 			}
 		}
+		
+		// TEST
 
 		System.out.println("The best route is: " + bestRoute + " with path length of " + bestPathLength
 				+ " and drop of " + bestDrop);
