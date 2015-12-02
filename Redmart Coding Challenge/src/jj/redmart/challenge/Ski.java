@@ -21,8 +21,6 @@ public class Ski {
 			}
 		}
 		
-		// TEST
-
 		System.out.println("The best route is: " + bestRoute + " with path length of " + bestPathLength
 				+ " and drop of " + bestDrop);
 
