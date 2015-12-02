@@ -11,8 +11,6 @@ public class Ski {
 	private static String bestRoute;
 
 	public static void main(String[] args) throws IOException {
-		// int[][] mountain = readMap("simpleMap.txt");
-		// int[][] mountain = readMap("map.txt");
 
 		System.out.println("The file supplied is " + args[0]);
 		int[][] mountain = readMap(args[0]);
